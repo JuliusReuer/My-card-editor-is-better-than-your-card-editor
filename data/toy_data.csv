@@ -1,0 +1,32 @@
+ToyId,ToyName,Effect,Icon
+Shield,Robot,[Add] 1 [Shield] at the start of your turn
+KnightHelmet,Swimming Ring,[Add] 5 [Shield] at the start of a card battle
+ToyCar,8 Ball,Bouth players [Draw] extra 1 [Card] at the Start of a card battle
+HalloweenPumpkin,Sweets Band,[Gain] 1 [Star] for every [BonBon]
+Swing,Star Orb,[Gain] 3 [Star] when you play an empty [Card]
+RollerShoes,Roller Shoes,[Gain] 1 [Star] for every 2 [Feaver] increased
+Handheld,Handheld,"[Gain] 2 [Star] when you play [Card] before round 5, otherwise [Remove] 2 [Star]"
+Leaf,Pet Flower,[Add] 1 [Cactus] at the start of a card battle
+Guitar,Cassette Player,[Add] 1 [Cassette] at the start of a card battle
+Bicycle,Rubber Duck,[Gain] 1 [Star] for every 2 [Fever] decreased
+Stethoscope,Etchesketch,[Decrease] [Fever] by 1 at the start of your turn
+GardenHose,Soap Bubles,[Decrease] [Feaver] by 3 when you lose [Fav]
+StickyHand,Sticky Hand,[Gain] 3 [Star] for every 3 [Card] you play
+BugContainer,Bug Container,[Add] 1 [Bug] at the start of your turn
+PogoStick,Pogo Stick,[Increase] [Feaver] by 1 for every [Card] you [Discard]
+Bucket,Bucket,[Add] 2 [Bug] and 2 [Fish] at the start of a card battle
+TeddyBear,Teddy Bear,[Gain] 2 [Star] when you lose [Fav]
+LavaLamp,Lava Lamp,[Increase] total [Fav] of both players by 10% at the start of a card battle
+Fluffy,Fluffy,[Increase] [Fever] by 1 at the start of your turn
+Crayon,Crayons,"Sort your draw pile by [BonBon] cost, so that the highest cost [Card] are at top of the pile"
+BugJar,Bug Jar,[Add] 3 [Bug] at the start of a card battle
+CandyToy,Candy Toy,[Gain] 3 [BonBon] if you don't play any [Card] on your turn
+BagOfCandy,Bag of Candy,[Gain] extra 2 [BonBon] at the start of a card battle
+RoboDog,Robo Dog,[Remove] 1 [Token] at the start of your turn
+GameControler,Game Controler,After drawing your initial hand [Discard] any number of [Card] then [Draw] 1 [Card] for each discard
+GameConsole,Spring,[Increase] [Fever] by 10 at the start of a card battle
+Excavator,Excacator,[Discard] 1 random [Card] from bouth players at the start of a card battle
+VirtualPet,Virtual Pet,[Increase] your total [Fav] by 10% at the start of a card battle
+RCCar,RC Car,[Increase] [Fever] by 1 for every [Card] you play
+,Unicorn,[Gain] 1 [Star] for every 3 [Card] you [Discard]
+,Kaleidoscope,[Gain] 3 [Star] at the start of a card battle

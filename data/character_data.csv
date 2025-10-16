@@ -1,0 +1,18 @@
+CharacterId,Name,Type,Requirement
+Char4-A1,Elias,Cat,
+Char7-A1,Daniel,Bug,
+Char8-A1,Sofiya,Music,'WIN5_VEHICLE'
+Char5-A1,Samantha,Cars
+Char10-A1,Gisele,Flowers,'DEFEAT_ASTRID'
+Char9-A1,Neung,Sport,'WIN5_STAR'
+Char2-V2-A1,Amit - Alien,Planets,"'DEFEAT_AMIT','RELAXED_WEEK2_WIN'"
+Char3-A1,Min,Dinos,'RELAXED_WEEK1_WIN'
+Boss1-A1,Astrid,Plants
+Char2-A1,Amit - Normal,Stars,'RELAXED_WEEK1_WIN'
+Char6-A1,Luna,Quest/Diamonds,'WIN5_BUG'
+Char1-A1,Laura,Stars
+Char1-V2-A1,Laura,BonBons,"'RELAXED_WEEK1_WIN', 'DEFEAT_LAURA', 'WIN_10_CARD_BATTLES'"
+Boss2-A1,Riku,Pirate
+Char2-A1-Boss,Elias - Racoon,Racoon
+Char1-A1-Boss,Amit - Astronaut,Planets
+Boss3-A1,Leonardo,Perfect
